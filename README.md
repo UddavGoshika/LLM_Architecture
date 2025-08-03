@@ -4,5 +4,6 @@ There are So many Types of LLMs ! .....
 2.LLama
 3.MoEs
 
-The First LLm architecture is over is provided with clean Diagram 👍
-<img src="https://raw.githubusercontent.com/UddavGoshika/ZeroLeak-RAGGPT/refs/heads/main/privateRag.png">
+The Encoder , Decoder LLm architecture is provided with clean Diagram 👍 
+---
+<img src="https://raw.githubusercontent.com/UddavGoshika/LLM_Architecture/refs/heads/main/LLM_Architecture.png">
