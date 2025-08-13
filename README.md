@@ -9,4 +9,4 @@ The Encoder , Decoder LLm architecture is provided with clean Diagram 👍
 <img src="https://raw.githubusercontent.com/UddavGoshika/LLM_Architecture/refs/heads/main/LLM_Architecture.png">
 
 the More architecture is building is Happening 
-like the MOE architecture (Mixture of Experts)
+like the MOE architecture (Mixture of Experts) b
