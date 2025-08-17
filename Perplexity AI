@@ -1,0 +1,8 @@
+why The Perplexity have Low Latency Response Generation ?
+
+The Main Causes For the Low Latency was :
+1.The Architecture {Mixture of Experts...(Major achievement✅)}
+2.kv caching {Key-Value caching (which means the attention keys and values are store in the fast access memory 👍)}
+3.Using the Tensors parallelism.🟩
+
+
